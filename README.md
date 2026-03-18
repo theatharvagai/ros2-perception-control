@@ -76,6 +76,3 @@ ros2 launch perception_control_sys system_launch.py
 - **Gazebo**: The robot should align its camera with the red object and drive towards it.
 - **Terminal**: Logs indicating object detection coordinates and published velocity commands.
 - **Logs**: A `telemetry_log.csv` file will be generated in the directory where the nodes were launched.
-
-## 🧾 Resume Integration
-**ROS2-Based Perception & Control System (Simulation)** — *Developed a modular robotics system using ROS2 integrating perception, control, and simulation; implemented real-time object detection and PID-based motion control in Gazebo with RViz visualization, enabling robust system integration, debugging, and performance logging.*
